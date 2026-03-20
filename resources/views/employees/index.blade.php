@@ -124,7 +124,7 @@
                             <input type="text" class="form-control mb-2" id="email" placeholder="Email"
                                 name="email">
                             <input type="number" class="form-control mb-2" id="phone" placeholder="Phone"
-                                name="phone" max="15">
+                                name="phone">
                             <textarea id="address" name="address" class="form-control" placeholder="Enter address"></textarea>
                             <br>
                             <button class="btn btn-success w-100">Save</button>
